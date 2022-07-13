@@ -2,3 +2,16 @@ body{
     margin: 0;
     background: #71727c;
 }
+.warp {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.high{
+
+
+
+}
+
