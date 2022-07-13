@@ -1,0 +1,36 @@
+body{
+    background: #69f4d2;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background: cornflowerblue;
+}
+h1{
+    color: #eddf09;
+    background: #1e3899;
+    text-align: center;
+}
+h2{
+    color: #cf09ed;
+    background: #dcad0a;
+    text-align: center;
+    /*width: 200px;*/
+}
+p{
+    color: black;
+    background: gray;
+}
+.bart{
+    color: #052083;
+    background: #71727c;
+}
+ul{
+    color: rgb(5, 32, 131);
+    background: rgb(237, 223, 9);
+}
+img{
+    width: 300px;
+    display: block;
+    margin: auto;
+}

@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Home_Work_3_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home_Work_3_1/mine.css" afterDir="false" />
+    <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="222">
+      <change afterPath="$PROJECT_DIR$/Home_Work_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_1/mine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_3_1/Images/compact-disk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_3_1/Images/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_3_1/Images/glass-of-whisky.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work_3/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_1/mine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work_3/mine.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work_3_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work_3_1/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_1/mine.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project/HomeWork/Home_Work/Home_Work_3_1/Images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_1\Images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_1\Images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,11 +76,25 @@
       <workItem from="1657559089513" duration="755000" />
       <workItem from="1657564460705" duration="311000" />
       <workItem from="1657564876236" duration="269000" />
-      <workItem from="1657699118624" duration="785000" />
+      <workItem from="1657699118624" duration="21997000" />
     </task>
+    <task id="LOCAL-00001" summary="1111">
+      <created>1657700165328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657700165328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <MESSAGE value="1111" />
+    <MESSAGE value="222" />
+    <option name="LAST_COMMIT_MESSAGE" value="222" />
   </component>
 </project>
