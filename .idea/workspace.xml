@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="">
+    <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="start_3_2">
+      <change afterPath="$PROJECT_DIR$/Home_Work_3_2/images/burger_line_list_menu_nav_navigation_option_icon_123231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_3_2/images/free-icon-loupe-650154.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work_3_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_Work_3_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_Work_3_2/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_2/mine.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,24 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Project/HomeWork/Home_Work/Home_Work_3_1/Images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/HomeWork/Home_Work/Home_Work_3_1/Images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_1\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_2\images" />
       <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_1\Images" />
     </key>
   </component>
@@ -69,7 +72,8 @@
       <workItem from="1657559089513" duration="755000" />
       <workItem from="1657564460705" duration="311000" />
       <workItem from="1657564876236" duration="269000" />
-      <workItem from="1657699118624" duration="23981000" />
+      <workItem from="1657699118624" duration="30182000" />
+      <workItem from="1657779122517" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1657700165328</created>
@@ -99,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657725646148</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="End_3_1">
+      <created>1657726422972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657726422972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +122,7 @@
     <MESSAGE value="222" />
     <MESSAGE value="end 3_1" />
     <MESSAGE value="start_3_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="start_3_2" />
+    <MESSAGE value="End_3_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="End_3_1" />
   </component>
 </project>
