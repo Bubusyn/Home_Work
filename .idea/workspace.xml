@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work_3_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work_3_2/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_2/mine.css" afterDir="false" />
-    </list>
+    <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,7 @@
       <workItem from="1657564460705" duration="311000" />
       <workItem from="1657564876236" duration="269000" />
       <workItem from="1657699118624" duration="30182000" />
-      <workItem from="1657779122517" duration="5020000" />
+      <workItem from="1657779122517" duration="5326000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1657700165328</created>
@@ -136,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657781390113</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="img_3_2">
+      <created>1657789037122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657789037122</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +152,7 @@
     <MESSAGE value="end 3_1" />
     <MESSAGE value="End_3_1" />
     <MESSAGE value="start_3_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="start_3_2" />
+    <MESSAGE value="img_3_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="img_3_2" />
   </component>
 </project>
