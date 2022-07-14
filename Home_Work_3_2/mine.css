@@ -20,8 +20,12 @@
 .name{
     width: 400px;
     height: 50px;
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     border: 1px solid #eddf09;
-    }
+}
 .nav{
     width: 100px;
     height: 50px;
@@ -32,10 +36,8 @@
     align-items: center;
 }
 
-img{
+img {
     width: 30px;
-
-
 }
 
 
