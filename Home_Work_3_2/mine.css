@@ -1,0 +1,32 @@
+.warp{
+    margin: 0 auto;
+    width: 1000px;
+    height: 700px;
+    /*border: 1px solid red;*/
+}
+.header{
+    background: silver;
+    height: 100px;
+    display: flex;
+}
+.icon{
+    background: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+.nav{
+    width: 200px;
+    height: 50px;
+    border: 1px solid red;
+}
+
+.content{
+    background: black;
+    height: 400px;
+}
+
+.end{
+    background: silver;
+    height: 200px;
+}
