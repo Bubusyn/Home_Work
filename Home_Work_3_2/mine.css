@@ -24,12 +24,12 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 1px solid #eddf09;
+    /*border: 1px solid #eddf09;*/
 }
 .nav{
     width: 100px;
     height: 50px;
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     padding-left: 10px;
     display: flex;
     justify-content: space-around;
@@ -43,9 +43,27 @@ img{
 .content{
     background: black;
     height: 400px;
+    display: flex;
+    justify-content: center;
+    position: relative;
 }
+.box_father{
+    width: 800px;
+    /*background: #eddf09;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: -110px;
 
-
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background: blueviolet;
+    margin: 40px;
+    border-radius: 10px;
+}
 
 
 
