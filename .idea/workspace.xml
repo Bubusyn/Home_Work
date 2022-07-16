@@ -35,19 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/HomeWork/Home_Work/Home_Work_3_2/Imeges&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project/HomeWork/Home_Work/Home_Work_3_2/Imeges",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_2\Imeges" />
@@ -73,7 +74,8 @@
       <workItem from="1657564876236" duration="269000" />
       <workItem from="1657699118624" duration="30182000" />
       <workItem from="1657779122517" duration="6989000" />
-      <workItem from="1657790827011" duration="2127000" />
+      <workItem from="1657790827011" duration="3722000" />
+      <workItem from="1657887205518" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1657700165328</created>
@@ -173,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657790934452</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="End_3_2">
+      <created>1657793242931</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657793242931</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +196,8 @@
     <MESSAGE value="End_3_1" />
     <MESSAGE value="start_3_2" />
     <MESSAGE value="img_3_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="img_3_2" />
+    <MESSAGE value="End 3_2" />
+    <MESSAGE value="End_3_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="End_3_2" />
   </component>
 </project>
