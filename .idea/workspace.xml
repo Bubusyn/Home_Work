@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f75c6550-51f5-42eb-adc9-62a3259d4112" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_Work_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_2_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_2_2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_Work_3_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_Work_3_2/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_3_2/mine.css" afterDir="false" />
     </list>
@@ -56,6 +56,8 @@
       <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_1\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\HomeWork\Home_Work\Home_Work_2_2\2" />
+      <recent name="D:\Project\HomeWork\Home_Work\Home_Work_2_2" />
       <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_2\images" />
       <recent name="D:\Project\HomeWork\Home_Work\Home_Work_3_1\Images" />
     </key>
@@ -77,7 +79,7 @@
       <workItem from="1657779122517" duration="6989000" />
       <workItem from="1657790827011" duration="3722000" />
       <workItem from="1657887205518" duration="5043000" />
-      <workItem from="1657974921857" duration="326000" />
+      <workItem from="1657974921857" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="1111">
       <created>1657700165328</created>
@@ -191,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657975230909</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="End_2_2">
+      <created>1657975464578</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657975464578</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +217,7 @@
     <MESSAGE value="End 3_2" />
     <MESSAGE value="End_3_2" />
     <MESSAGE value="End_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="End_1" />
+    <MESSAGE value="End_2_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="End_2_2" />
   </component>
 </project>

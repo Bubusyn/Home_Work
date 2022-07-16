@@ -1,0 +1,44 @@
+body {
+    background: silver;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.target2{
+    margin-right: calc(10% - 150px);
+    margin-left: calc(10% - 150px);
+    height: 350px;
+    width: 300px;
+
+    border: 2px solid blue;
+    box-sizing: border-box;
+
+    background: gold;
+    color:black;
+    text-align: center;
+
+}
+.target2 > p{
+    text-align:center;
+    padding: 10px;
+
+}
+.target3{
+    height: 50px;
+    width: 200px;
+    margin:  auto;
+    padding-top: 5px;
+
+    border:2px solid deepskyblue;
+    box-sizing: content-box;
+
+    background: silver;
+    color:black;
+    text-align: center;
+
+}
+
+
