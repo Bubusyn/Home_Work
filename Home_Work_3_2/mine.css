@@ -36,7 +36,7 @@
     align-items: center;
 }
 
-img{
+.img{
     width: 30px;
 }
 
@@ -55,7 +55,6 @@ img{
     align-items: center;
     position: absolute;
     bottom: -110px;
-
 }
 .box{
     width: 150px;
@@ -64,8 +63,6 @@ img{
     margin: 40px;
     border-radius: 10px;
 }
-
-
 
 .end{
     background: silver;

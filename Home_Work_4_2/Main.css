@@ -3,7 +3,6 @@ body{
 }
 .wrap{
     width: 1200px;
-    /*height: 50%;*/
     background: gold;
 
     margin-top: 100px;
@@ -20,7 +19,7 @@ body{
     border-radius: 20px;
     margin: 20px;
 
-    color: white;
+    color: black;
     font-size: 30px;
     font-weight: bold;
     display: flex;
@@ -29,12 +28,11 @@ body{
     align-items: center;
 }
 .father{
-    background: blue;
+    /*background: blue;*/
     width:96.6%;
     height: 520px;
     margin: 20px;
-    /*display: flex;*/
-    /*flex-direction: row;*/
+
 }
 .b {
     width: 65%;
@@ -42,7 +40,7 @@ body{
     background: silver;
     border-radius: 20px;
 
-    color: white;
+    color: black;
     font-size: 30px;
     font-weight: bold;
     display: flex;
@@ -53,7 +51,7 @@ body{
 .box {
     width: 65%;
     height: 200px;
-    background: silver;
+    /*background: silver;*/
     border-radius: 20px;
     margin-top: 20px;
 
@@ -83,7 +81,7 @@ body{
 }
 .text{
     /*width: 40%;*/
-    width: 300px;
+    width: 250px;
     height: 200px;
     margin:5px;
 
@@ -99,40 +97,40 @@ body{
 }
 
 
-/*@media screen and (max-width: 1570px) {*/
-/*    body {*/
-/*        background: #69f4d2;*/
-/*    }*/
+@media screen and (max-width: 1570px) {
+    body {
+        background: #69f4d2;
+    }
+    .wrap {
+        margin: 100px;
+        width: 50%;
+        flex-direction: column;
+    }
 
-/*    .wrap {*/
-/*        margin-top: 100px;*/
-/*        margin-left: 20px;*/
-/*        width: 50%;*/
-/*        flex-direction: column;*/
+    .a {
+        width: 100%;
+        height: 100px;
+        margin-left: 0px;
+    }
 
-/*    }*/
+    .b {
+        width: 103.6%;
+        height: 100px;
+        margin-left: -20px;
+    }
 
-/*    .father {*/
-/*        width: 100%;*/
-/*        flex-direction: column;*/
-/*    }*/
+    .f {
+        width: 103.6%;
+        height: 150px;
+        margin-top: 80px;
+        margin-left: -20px;
+    }
+    .box {
+        width: 100%;
+        height: 80px;
+        flex-direction: row;
+        margin-top: 80px;
+        margin-left: -10px;
+    }
 
-/*    .a {*/
-/*        width: 100%;*/
-/*        height: 100px;*/
-/*        margin-left: 0px;*/
-/*    }*/
-
-/*    .b {*/
-/*        width: 100%;*/
-/*        height: 300px;*/
-/*        margin-left: -20px;*/
-/*    }*/
-
-/*    .c {*/
-/*        width: 100%;*/
-/*        height: 200px;*/
-/*        margin-top: 20px;*/
-/*        margin-left: -20px;*/
-/*    }*/
-/*}*/
+}
